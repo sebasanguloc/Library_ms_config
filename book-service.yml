@@ -11,4 +11,4 @@ spring:
       mode: always
 
 value:
-  pr: hola
+  pr: Como Vas
