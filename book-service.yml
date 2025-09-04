@@ -11,4 +11,4 @@ spring:
       mode: always
 
 value:
-  pr: mierda
+  pr: adios
